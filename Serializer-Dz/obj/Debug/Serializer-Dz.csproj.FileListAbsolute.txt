@@ -1,0 +1,7 @@
+c:\users\djoni\source\repos\Serializer-Dz\Serializer-Dz\bin\Debug\Serializer-Dz.exe.config
+c:\users\djoni\source\repos\Serializer-Dz\Serializer-Dz\bin\Debug\Serializer-Dz.exe
+c:\users\djoni\source\repos\Serializer-Dz\Serializer-Dz\bin\Debug\Serializer-Dz.pdb
+c:\users\djoni\source\repos\Serializer-Dz\Serializer-Dz\obj\Debug\Serializer-Dz.csprojResolveAssemblyReference.cache
+c:\users\djoni\source\repos\Serializer-Dz\Serializer-Dz\obj\Debug\Serializer-Dz.csproj.CoreCompileInputs.cache
+c:\users\djoni\source\repos\Serializer-Dz\Serializer-Dz\obj\Debug\Serializer-Dz.exe
+c:\users\djoni\source\repos\Serializer-Dz\Serializer-Dz\obj\Debug\Serializer-Dz.pdb
